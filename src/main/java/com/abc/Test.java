@@ -9,5 +9,7 @@ public class Test {
         System.out.println("test master Git2");
         System.out.println("test hot Git2");
         System.out.println("test hot Git3");
+        System.out.println("test hot Git3");
+        System.out.println("push test hot Git3");
     }
 }
